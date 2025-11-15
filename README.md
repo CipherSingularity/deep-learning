@@ -10,97 +10,26 @@
 
 *A comprehensive repository documenting my deep learning journey with implementations, concepts, and practical projects.*
 
-</div>
-
-<br>
+----
 
 ## 📚 Learning Path
 
-```mermaid
-graph TD
-    Start([🚀 Start Here]) --> Spacer1[ ]
-    Spacer1 --> A[1️⃣ Neural Network Foundations]
-    
-    A --> A1[Perceptron & MLP]
-    A --> A2[Activation Functions]
-    A --> A3[Loss Functions & Optimizers]
-    A --> A4[Backpropagation]
-    
-    A --> Spacer2[ ]
-    Spacer2 --> B[2️⃣ CNNs]
-    B --> B1[Convolution & Pooling]
-    B --> B2[ResNet, VGG, EfficientNet]
-    B --> B3[Object Detection]
-    B --> B4[Image Segmentation]
-    
-    A --> C[3️⃣ RNNs]
-    C --> C1[LSTM & GRU]
-    C --> C2[Sequence Modeling]
-    C --> C3[Time-Series]
-    
-    B --> Spacer3[ ]
-    Spacer3 --> D[4️⃣ Transformers ⭐]
-    C --> D
-    D --> D1[Self-Attention]
-    D --> D2[Multi-Head Attention]
-    D --> D3[LLMs: GPT, LLaMA]
-    D --> D4[Vision Transformers]
-    
-    D --> Spacer4[ ]
-    Spacer4 --> E[5️⃣ Generative AI 🔥]
-    E --> E1[GANs & StyleGAN]
-    E --> E2[Diffusion Models]
-    E --> E3[Text-to-Image]
-    E --> E4[Fine-Tuning & LoRA]
-    
-    A --> F[6️⃣ Reinforcement Learning]
-    F --> F1[Q-Learning & DQN]
-    F --> F2[Policy Gradients]
-    F --> F3[PPO & RLHF]
-    
-    D --> G[7️⃣ Training & Deployment]
-    E --> G
-    G --> G1[Hyperparameter Tuning]
-    G --> G2[Quantization & Pruning]
-    G --> G3[MLOps & CI/CD]
-    
-    G --> Spacer5[ ]
-    Spacer5 --> H[8️⃣ Explainable AI]
-    H --> H1[SHAP & LIME]
-    H --> H2[Feature Attribution]
-    
-    D --> I[9️⃣ Advanced Concepts]
-    E --> I
-    I --> I1[Meta-Learning]
-    I --> I2[Contrastive Learning]
-    I --> I3[Multimodal VLMs]
-    
-    B --> J[🔟 Real-World Applications]
-    D --> J
-    E --> J
-    F --> J
-    J --> J1[NLP & Computer Vision]
-    J --> J2[Healthcare & Finance]
-    J --> J3[Recommendation Systems]
-    
-    J --> Spacer6[ ]
-    Spacer6 --> End([🎯 Job Ready!])
-    
-    style Start fill:#4CAF50,stroke:#2E7D32,color:#fff
-    style A fill:#2196F3,stroke:#1565C0,color:#fff
-    style D fill:#FF9800,stroke:#E65100,color:#fff
-    style E fill:#F44336,stroke:#C62828,color:#fff
-    style G fill:#9C27B0,stroke:#6A1B9A,color:#fff
-    style J fill:#00BCD4,stroke:#00838F,color:#fff
-    style End fill:#4CAF50,stroke:#2E7D32,color:#fff
-    style Spacer1 fill:none,stroke:none
-    style Spacer2 fill:none,stroke:none
-    style Spacer3 fill:none,stroke:none
-    style Spacer4 fill:none,stroke:none
-    style Spacer5 fill:none,stroke:none
-    style Spacer6 fill:none,stroke:none
+| Phase | Topic | Time | Priority | Status |
+|-------|-------|------|----------|--------|
+| **Phase 1** | Neural Network Foundations | 2-3 weeks | 🔴 Critical | ⬜ |
+| **Phase 2** | CNNs | 2-3 weeks | 🟠 High | ⬜ |
+| **Phase 3** | Transformers | 3-4 weeks | 🔴 Critical | ⬜ |
+| **Phase 4** | Generative AI | 3-4 weeks | 🔴 Critical | ⬜ |
+| **Phase 5** | Training & Deployment | 2 weeks | 🟠 High | ⬜ |
+| **Phase 6** | RNNs (Optional) | 1-2 weeks | 🟡 Medium | ⬜ |
+| **Phase 7** | Reinforcement Learning | 2-3 weeks | 🟠 High | ⬜ |
+| **Phase 8** | Explainable AI | 1-2 weeks | 🟡 Medium | ⬜ |
+| **Phase 9** | Advanced Topics | 2-3 weeks | 🟢 Low | ⬜ |
+| **Phase 10** | Real-World Projects | Ongoing | 🔴 Critical | ⬜ |
 
-```
+</div>
+
+---
 
 ### 📋 Detailed Topics
 
@@ -247,11 +176,53 @@ graph TD
 
 </details>
 
+---
+
+<div align="center"> 
+
 ## 🛠️ Tech Stack
 
-- **Frameworks:** PyTorch, TensorFlow, Keras
-- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook & Google Colab
+### Core Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=python&logoColor=white)
+
+### Development Tools
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Experiment Tracking & Cloud
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Specialized Libraries
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+
+</div>
 
 ## 📂 Repository Structure
 
@@ -284,28 +255,162 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 ```
+<br>
 
-## 📖 Learning Resources
+<div align="center">
 
-- 📚 Books: Deep Learning (Goodfellow), Hands-On Machine Learning
-- 🎓 Courses: Fast.ai, Andrew Ng's Deep Learning Specialization
-- 📄 Papers: ArXiv, Papers with Code
-- 🌐 Communities: Hugging Face, Kaggle, Reddit ML
+```
+                         START HERE
 
-## 🎯 Goals
+    ├─── 1️⃣ NEURAL NETWORK FOUNDATIONS ─────────────────────────┐
+    │    • Perceptron & MLP                                     │
+    │    • Activation Functions (ReLU, Sigmoid, GELU)           │
+    │    • Loss Functions & Optimizers (SGD, Adam, AdamW)       │
+    │    • Backpropagation & Gradient Descent                   │
+    │                                                           │
+    ├─── 2️⃣ CNNs ───────────────────────────────────────────────┤
+    │    • Convolution & Pooling                                │
+    │    • ResNet, VGG, EfficientNet                            │
+    │    • Object Detection (YOLO, Faster R-CNN)                │
+    │    • Image Segmentation (UNet, Mask R-CNN)                │
+    │                                                           │
+    ├─── 3️⃣ RNNs ──────────────────────────────────────────────┤
+    │    • LSTM & GRU                                           │
+    │    • Sequence Modeling                                    │
+    │    • Time-Series Forecasting                              │
+    │                                                           │
+    ├─── 4️⃣ TRANSFORMERS ⭐ (MOST IMPORTANT) ──────────────────┤
+    │    • Self-Attention & Multi-Head Attention                │
+    │    • Positional Encoding                                  │
+    │    • LLMs: GPT, LLaMA, BERT                               │
+    │    • Vision Transformers (ViT)                            │
+    │                                                           │
+    ├─── 5️⃣ GENERATIVE AI 🔥 (TOP SKILL 2025) ─────────────────┤
+    │    • GANs (DCGAN, StyleGAN)                               │
+    │    • Diffusion Models (Stable Diffusion, FLUX)            │
+    │    • Text-to-Image & Text-to-Video                        │
+    │    • Prompt Engineering & Fine-Tuning (LoRA, PEFT)        │
+    │                                                           │
+    ├─── 6️⃣ REINFORCEMENT LEARNING ────────────────────────────┤
+    │    • Q-Learning & Deep Q-Networks (DQN)                   │
+    │    • Policy Gradients (PPO, A3C, SAC)                     │
+    │    • RLHF (Reinforcement Learning from Human Feedback)    │
+    │                                                           │
+    ├─── 7️⃣ TRAINING & DEPLOYMENT 🚢 ──────────────────────────┤
+    │    • Hyperparameter Tuning & Regularization               │
+    │    • Quantization, Pruning, Distillation                  │
+    │    • MLOps (MLflow, Kubernetes, Docker)                   │
+    │    • Model Formats (ONNX, TensorRT)                       │
+    │                                                           │
+    ├─── 8️⃣ EXPLAINABLE AI 🔍 ─────────────────────────────────┤
+    │    • SHAP & LIME                                          │
+    │    • Integrated Gradients                                 │
+    │    • Feature Attribution Methods                          │
+    │                                                           │
+    ├─── 9️⃣ ADVANCED CONCEPTS 🎓 ──────────────────────────────┤
+    │    • Meta-Learning (MAML)                                 │
+    │    • Contrastive Learning (SimCLR, CLIP)                  │
+    │    • Multimodal Learning (VLMs)                           │
+    │    • Federated Learning                                   │
+    │                                                           │
+    └─── 🔟 REAL-WORLD APPLICATIONS 💼 ────────────────────────┘
+    |     • NLP & Computer Vision                               │
+    |     • Healthcare & Finance AI                             │
+    |     • Recommendation Systems                              │
+    |     • Speech Processing                                   │
+    └───────────────────────────────────────────────────────────┘ 
 
-- ✅ Master fundamental deep learning concepts
-- ✅ Build and deploy production-ready models
-- ✅ Contribute to open-source AI projects
-- ✅ Stay updated with latest research and techniques
+```
+</div>
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
+```mermaid
+graph TD
+    Start([🚀 Start Here]) --> Spacer1[ ]
+    Spacer1 --> A[1️⃣ Neural Network Foundations]
+    
+    A --> A1[Perceptron & MLP]
+    A --> A2[Activation Functions]
+    A --> A3[Loss Functions & Optimizers]
+    A --> A4[Backpropagation]
+    
+    A --> Spacer2[ ]
+    Spacer2 --> B[2️⃣ CNNs]
+    B --> B1[Convolution & Pooling]
+    B --> B2[ResNet, VGG, EfficientNet]
+    B --> B3[Object Detection]
+    B --> B4[Image Segmentation]
+    
+    A --> C[3️⃣ RNNs]
+    C --> C1[LSTM & GRU]
+    C --> C2[Sequence Modeling]
+    C --> C3[Time-Series]
+    
+    B --> Spacer3[ ]
+    Spacer3 --> D[4️⃣ Transformers ⭐]
+    C --> D
+    D --> D1[Self-Attention]
+    D --> D2[Multi-Head Attention]
+    D --> D3[LLMs: GPT, LLaMA]
+    D --> D4[Vision Transformers]
+    
+    D --> Spacer4[ ]
+    Spacer4 --> E[5️⃣ Generative AI 🔥]
+    E --> E1[GANs & StyleGAN]
+    E --> E2[Diffusion Models]
+    E --> E3[Text-to-Image]
+    E --> E4[Fine-Tuning & LoRA]
+    
+    A --> F[6️⃣ Reinforcement Learning]
+    F --> F1[Q-Learning & DQN]
+    F --> F2[Policy Gradients]
+    F --> F3[PPO & RLHF]
+    
+    D --> G[7️⃣ Training & Deployment]
+    E --> G
+    G --> G1[Hyperparameter Tuning]
+    G --> G2[Quantization & Pruning]
+    G --> G3[MLOps & CI/CD]
+    
+    G --> Spacer5[ ]
+    Spacer5 --> H[8️⃣ Explainable AI]
+    H --> H1[SHAP & LIME]
+    H --> H2[Feature Attribution]
+    
+    D --> I[9️⃣ Advanced Concepts]
+    E --> I
+    I --> I1[Meta-Learning]
+    I --> I2[Contrastive Learning]
+    I --> I3[Multimodal VLMs]
+    
+    B --> J[🔟 Real-World Applications]
+    D --> J
+    E --> J
+    F --> J
+    J --> J1[NLP & Computer Vision]
+    J --> J2[Healthcare & Finance]
+    J --> J3[Recommendation Systems]
+    
+    J --> Spacer6[ ]
+    Spacer6 --> End([🎯 Job Ready!])
+    
+    style Start fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style A fill:#2196F3,stroke:#1565C0,color:#fff
+    style D fill:#FF9800,stroke:#E65100,color:#fff
+    style E fill:#F44336,stroke:#C62828,color:#fff
+    style G fill:#9C27B0,stroke:#6A1B9A,color:#fff
+    style J fill:#00BCD4,stroke:#00838F,color:#fff
+    style End fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style Spacer1 fill:none,stroke:none
+    style Spacer2 fill:none,stroke:none
+    style Spacer3 fill:none,stroke:none
+    style Spacer4 fill:none,stroke:none
+    style Spacer5 fill:none,stroke:none
+    style Spacer6 fill:none,stroke:none
 
-## 📝 License
+```
 
-This project is [MIT](LICENSE) licensed.
+
 
 ## 📧 Contact
 
@@ -326,3 +431,6 @@ Once you've completed all sections, you'll be prepared for:
 - **Data Science** careers
 - **ML DevOps** opportunities
 -->
+
+
+
