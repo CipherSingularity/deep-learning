@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# 🧠 Deep Learning Journey
+#  Deep Learning Journey
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
@@ -8,9 +8,11 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-> A comprehensive repository documenting my deep learning journey with implementations, concepts, and practical projects.
+*A comprehensive repository documenting my deep learning journey with implementations, concepts, and practical projects.*
 
 </div>
+
+<br>
 
 ## 📚 Learning Path
 
@@ -307,9 +309,8 @@ This project is [MIT](LICENSE) licensed.
 
 ## 📧 Contact
 
-- GitHub: [@yourusername](https://github.com/ARUNAGIRINATHAN-K)
-- LinkedIn: [Your Name](https://linkedin.com/in/arunagirinathan-k)
-- Email: your.email@example.com
+- GitHub: [@ARUNAGIRINATHAN-K](https://github.com/ARUNAGIRINATHAN-K)
+- LinkedIn: [arunagirinathan-k](https://linkedin.com/in/arunagirinathan-k)
 
 ---
 <div align="center"> 
@@ -318,10 +319,10 @@ This project is [MIT](LICENSE) licensed.
 
 </div>
 
-
+<!--
 Once you've completed all sections, you'll be prepared for:
 - **ML Engineer** roles
 - **AI/ML Research** positions
 - **Data Science** careers
 - **ML DevOps** opportunities
-
+-->
