@@ -26,6 +26,9 @@ Follow the numbered directories in sequence for a structured learning experience
 | **6. OCR** | Computer vision and text recognition applications |
 
 ---
+
+![](Books/Deep_Learning_Process-d8f.jpg)
+
 </div>
 
 <div align="center">
